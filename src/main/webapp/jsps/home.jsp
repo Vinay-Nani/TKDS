@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">My firsMt Project</h1>
+<h1 align="center">My firsMt Project ***  </h1>
 <h1 align="center"> March 2021</h1>
 <hr>
 <div style="text-align: center;">
@@ -18,7 +18,7 @@
 	</span>
 	<span style="font-weight: bold;">
 		Vinay pampana, 
-		ITW Signode colony AShok Nagar,
+		2nd cross ITWcolonyAShok Nagar,
 		Hyderabad,
 		+91-9849022338
 		veenay111@gmail.com
