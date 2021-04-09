@@ -17,7 +17,7 @@
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Vinay pampana, 
+		Vinay pampana  , 
 		2nd cross ITWcolonyAShok Nagar,
 		Hyderabad,
 		+91-9849022338
