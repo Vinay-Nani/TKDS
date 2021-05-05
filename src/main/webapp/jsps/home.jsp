@@ -18,6 +18,11 @@
 	</span>
 	<span style="font-weight: bold;">
 		  Hyderabad
+
+		  Telangana
+
+		  INDIA
+	
 		<br>
 		<a href="mailto:veenay111@gmail.com">Mail to Vinay</a>
 	</span>
