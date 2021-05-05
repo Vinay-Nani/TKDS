@@ -17,11 +17,7 @@
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Vinay pampana  , 
-		2nd cross ITWcolonyAShok Nagar,
-		Hyderabad,
-		+91-9849022338
-		veenay111@gmail.com
+		  Hyderabad
 		<br>
 		<a href="mailto:veenay111@gmail.com">Mail to Vinay</a>
 	</span>
